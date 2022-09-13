@@ -9,6 +9,7 @@ public class HashSetDemo {
 		HashSet<Integer> hashSet=new HashSet<Integer>();
 		hashSet.add(1);
 		hashSet.add(2);
+		hashSet.add(3);
 		
 		for(Integer i : hashSet) {
 			
