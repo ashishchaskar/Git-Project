@@ -12,6 +12,7 @@ public class ArrayListDemo1 {
 		nameList.add("Sachin");
 		nameList.add("Virat");
 		nameList.add("Rohit");
+		nameList.add("Dhoni");
 		
 		//using iterator
           
